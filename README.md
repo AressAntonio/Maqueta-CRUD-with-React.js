@@ -17,3 +17,5 @@
 
 ---Paso 1 ejecutar desde terminal npm install
 ---Paso 2 ejecutar npm start
+
+![CRUD-REACT-API](https://user-images.githubusercontent.com/99376135/210189822-0be08f47-f97c-49ce-b2c9-8dd055f7db50.png)

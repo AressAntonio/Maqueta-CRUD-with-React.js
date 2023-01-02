@@ -5,7 +5,7 @@
    React y la api https:jsonplaceholder.typicode.com/posts</p>
 <h2>Tecnologias utilizadas</h2>
 <ul>
-   <li>React.j</li>
+   <li>React.js</li>
    <li>HTML 5</li>
    <li>CSS 3</li>
    <li>JS</li>
